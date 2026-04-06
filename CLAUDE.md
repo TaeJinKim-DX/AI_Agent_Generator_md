@@ -35,14 +35,10 @@
 ## 문서 인덱스
 
 - 운영 계약: `COLLABORATION.md`
-- 역할: `.claude/agents/`
 - 명령: `.claude/commands/`
 - 규칙: `.claude/rules/`
-- 템플릿: `.claude/templates/`
-- 하네스: `.claude/harness/`
-- 워크플로: `.claude/workflows/`
 - 런타임 가이드: `.claude/runtime/`
-- 용어: `.claude/glossary/terms.md`
+- 선택 확장: `.claude/agents/`, `.claude/harness/`, `.claude/templates/`, `.claude/workflows/`, `.claude/glossary/`
 
 ## 변경 원칙
 
